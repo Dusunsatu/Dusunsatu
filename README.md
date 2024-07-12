@@ -37,10 +37,8 @@
 
 
 <p float="left">
-  <img src="https://github.com/Andraxvpn/Andrax-script/blob/main/1.jpg" width="100" />
-  <img src="https://github.com/Andraxvpn/Andrax-script/blob/main/2.jpg" width="100" /> 
-  <img src="https://github.com/Andraxvpn/Andrax-script/blob/main/3.jpg" width="100" />
-</p>
+  
+  
 <h2>Masalah</h2>
 
 <p>Jika Anda mengalami pesan kesalahan <code>bash: ./andraxVPN.sh: /bin/bash^M: bad interpreter: No such file or directory</code>, </p>
